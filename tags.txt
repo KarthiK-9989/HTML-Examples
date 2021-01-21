@@ -1,0 +1,26 @@
+ head
+===========
+<head>
+ <title></title>
+ <link rel="stylesheet" href="">
+ <style></style>
+<script>
+
+</head>
+
+
+body
+=====
+
+<div>
+<section>
+<article<
+<p>
+<h family>
+<table>
+<span>
+<form>
+<input type="">
+</form>
+
+<address>

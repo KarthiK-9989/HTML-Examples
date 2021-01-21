@@ -1,0 +1,16 @@
+console.log( '\x41\xA9' ); // logs: A©
+
+
+var characterA = '\u0041';
+console.log( characterA );
+
+
+
+
+utf-8:-
+========
+
+console.log( '\u0906' );----->aaaa prints hindii aaaa
+
+
+console.log( '\uD83D\uDE0A' ); // logs: 😊
